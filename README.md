@@ -3,10 +3,12 @@
 # Vaccination Tracker - Object-Oriented Programming
 
 ## Project Overview
-This project, developed in Python, is an Object-Oriented Programming (OOP) solution for managing vaccination records. It demonstrates the application of OOP principles such as class creation, object instantiation, encapsulation, and method implementation.
+This project, developed in Python, is an Object-Oriented Programming (OOP) solution for managing vaccination records. 
+It demonstrates the application of OOP principles such as class creation, object instantiation, 
+encapsulation, and method implementation.
 
 ### Key Features
-- **Class Design:** Implementation of classes like `Person` and `VaccinationRecord` to model real-world entities.
+- **Class Design:** Implementation of classes like `Person` and `VaccSympRecord` to model real-world entities.
 - **Data Management:** Efficient management of individual vaccination records and aggregate data.
 - **User Interaction:** Interactive console-based interface for inputting and retrieving vaccination data.
 
@@ -33,7 +35,7 @@ Before running this project, ensure you have the following installed:
 
 ### Running the Application
 To run the Vaccination Tracker, execute the following command in the project directory:
-python vacinationsOOP.py
+python VaccinationMain.py
 
 ## Learning Outcomes
 - Gained proficiency in applying OOP concepts in Python.
@@ -44,5 +46,7 @@ python vacinationsOOP.py
 Expanding the program to add additional information regarding records.
 
 ## About
-Angeline Dorvil created this project as part of the Object Oriented Programming Essentials class at the University of South Florida. For more information, questions, or collaborations, don't hesitate to get in touch with me at angelinedorvil@outlook.com.
+Angeline Dorvil created this project as part of the Object-Oriented Programming Essentials class at the 
+University of South Florida. For more information, questions, or collaborations, 
+don't hesitate to get in touch with me at angelinedorvil@outlook.com.
 
