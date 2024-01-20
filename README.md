@@ -21,7 +21,7 @@ Before running this project, ensure you have the following installed:
 1. **Clone the Repository:**
    - First, clone this repository to your local machine using:
      ```
-     git clone https://github.com/angelinedorvil/vaccination-tracker-oop.git
+     git clone https://github.com/angelinedorvil/Vaccinations-Tracking-Part-2-OOP
      ```
    - If you don't have Git installed, you can download and unzip the source code from GitHub.
 
@@ -41,8 +41,8 @@ python vacinationsOOP.py
 - Enhanced understanding of real-world application of software development principles.
 
 ## Future Improvements
-Expending program to add additional information regarding records.
+Expanding the program to add additional information regarding records.
 
 ## About
-This project was created by Angeline Dorvil as part of Object Oriented Programming Essentials class at University of South Florida. For more information, questions, or collaborations, please contact me at angelinedorvil@outlook.com.
+Angeline Dorvil created this project as part of the Object Oriented Programming Essentials class at the University of South Florida. For more information, questions, or collaborations, don't hesitate to get in touch with me at angelinedorvil@outlook.com.
 
