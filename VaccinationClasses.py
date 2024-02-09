@@ -1,3 +1,8 @@
+"""Name: Angeline Dorvil
+Date: 02/07/2024
+Assignment Title: Vaccinations Tracking OOP Pywidgets Assignment 5- VaccinationClasses
+"""
+
 class Person():
   def __init__(self, firstname='firstname', lastname='lastname', idnumber='0000', address='US', telephone='0000000000', vac_a=0, vac_b=0, vac_c=0, symp_a1=0, symp_a2=0, symp_a3=0, symp_b1=0, symp_b2=0, symp_b3=0, symp_c1=0, symp_c2=0, symp_c3=0):
       self._name = firstname
@@ -175,7 +180,7 @@ class VaccSympRecord():
         vacATotal += person.get_vac_record('vac_a')
         vacBTotal += person.get_vac_record('vac_b')
         vacCTotal += person.get_vac_record('vac_c')
-    return f"vac_a total is: {vacATotal}\n vac_b total is: {vacBTotal}\n vac_c total is: {vacCTotal}."
+    return f"vac_a total is: {vacATotal}\n \nvac_b total is: {vacBTotal}\n \nvac_c total is: {vacCTotal}."
 
   def symptoms_totals(self):
       #tracking symptoms for vac_a
